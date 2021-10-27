@@ -163,7 +163,7 @@
         <EditText
                 android:id="@+id/et_lokasi"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
+                android:layout_height="wrap_content"
                 android:textSize="15sp"
                 android:hint="Put Your Meeting Location"
                 />
